@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HNY666
 - 👀 I’m interested in coding, designing and expploring
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Designing
 - 📫 How to reach me via Inbox
 
 <!---
